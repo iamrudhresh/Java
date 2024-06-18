@@ -1,4 +1,3 @@
-Got it! Here is the complete markdown file with all the Java notes for beginners in a single file:
 
 ```markdown
 # Java Notes for Beginners
